@@ -1,0 +1,6 @@
+# Rgname1    = "rg001"
+Location   = "East US"
+Env        = "Dev"
+# Batch      = "B32"
+Vnet1_Cidr = "10.1.0.0/16"
+#Vnet2_Cidr = "10.2.0.0/16"
